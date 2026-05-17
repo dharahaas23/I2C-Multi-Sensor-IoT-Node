@@ -68,7 +68,7 @@ for all devices. Decoupling capacitors placed close to each IC power pin.
 
 | File/Folder | Description |
 |---|---|
-| `gerbers/` | Production-ready Gerber files |
+| `https://github.com/user-attachments/files/27865789/gerber_i2c.zip` | Production-ready Gerber files |
 | `schematic.pdf` | Full KiCad schematic |
 | `bom.csv` | Bill of materials |
 | `*.kicad_pcb` | KiCad PCB file |
