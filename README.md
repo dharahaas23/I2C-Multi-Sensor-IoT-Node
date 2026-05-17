@@ -83,10 +83,10 @@ for all devices. Decoupling capacitors placed close to each IC power pin.
 
 ## Tools
 
-- KiCad 8.x
+- KiCad 10.0
 - MPU-6050, BME280, ESP-12F datasheets
 
 ## Author
 
 **Simhadri Dharahaas** — ECE Undergraduate | PCB Design & Embedded Systems
-[LinkedIn](https://linkedin.com/in/dharahaassimhadri-b17b4b358) | [GitHub](https://github.com/Sdharahaas54)
+[LinkedIn](https://www.linkedin.com/in/dharahaas-simhadri-b17b4b358?utm_source=share_via&utm_content=profile&utm_medium=member_android) | [GitHub](https://github.com/dharahaas23)
